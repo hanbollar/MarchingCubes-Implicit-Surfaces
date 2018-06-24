@@ -51,7 +51,7 @@ High Resolution Visual:
 
 
 
-[img]: https://github.com/hanbollar/Project6-MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_img.png "Image"
-[lowResVis]: https://github.com/hanbollar/Project6-MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_trim1.gif "Low Res Visual"
-[debugVis]: https://github.com/hanbollar/Project6-MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_trim2.gif "Low Res Debugging Visual [spheres and voxel cubes]"
-[highResVis]: https://github.com/hanbollar/Project6-MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_increasedRes.gif "High Res Visual"
+[img]: https://github.com/hanbollar/MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_img.png "Image"
+[lowResVis]: https://github.com/hanbollar/MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_trim1.gif "Low Res Visual"
+[debugVis]: https://github.com/hanbollar/MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_trim2.gif "Low Res Debugging Visual [spheres and voxel cubes]"
+[highResVis]: https://github.com/hanbollar/MarchingCubes-Implicit-Surfaces/blob/master/forReadme/_increasedRes.gif "High Res Visual"
